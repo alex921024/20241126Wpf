@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUDjj8SQio4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\owner\\Desktop\\20241126wpf\\20241126wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owner\\.nuget\\packages\\extended.wpf.toolkit\\4.6.1\\extended.wpf.toolkit.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

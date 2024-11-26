@@ -1,0 +1,6 @@
+C:\Users\owner\Desktop\20241126wpf\obj\Debug\net8.0-windows\20241126wpf.csproj.AssemblyReference.cache
+C:\Users\owner\Desktop\20241126wpf\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\owner\Desktop\20241126wpf\obj\Debug\net8.0-windows\MyDocumentViewer.g.cs
+C:\Users\owner\Desktop\20241126wpf\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\owner\Desktop\20241126wpf\obj\Debug\net8.0-windows\20241126wpf_MarkupCompile.cache
+C:\Users\owner\Desktop\20241126wpf\obj\Debug\net8.0-windows\20241126wpf_MarkupCompile.lref
